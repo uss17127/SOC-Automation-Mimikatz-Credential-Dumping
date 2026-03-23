@@ -74,4 +74,4 @@ Screenshots of logs, alerts, and detections are included in the full report.
 
 ## Full Technical Walkthrough
 Detailed documentation and screenshots:
-- [Project Report (PDF)](Mimikatz_Project_Report.pdf)
+- [Project Report (PDF)](SOC Automation Project (1).pdf)
