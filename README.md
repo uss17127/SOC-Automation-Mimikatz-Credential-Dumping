@@ -74,4 +74,4 @@ Screenshots of logs, alerts, and detections are included in the full report.
 
 ## Full Technical Walkthrough
 Detailed documentation and screenshots:
-- [Project Report (PDF)](https://github.com/uss17127/SOC-Automation-Mimikatz-Credential-Dumping/blob/main/SOC%20Automation%20Project%20(1).pdf)
+- [Project Report (PDF)](https://github.com/uss17127/SOC-Automation-Mimikatz-Credential-Dumping/blob/main/SOC%20Automation%20Project.pdf)
